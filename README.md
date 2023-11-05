@@ -1,7 +1,9 @@
-I'm Currently working on something cool
-/n
-I'm Currently learning c#
-/n
+|I'm Currently working on something cool|
+
+
+|I'm Currently learning c#|
+
+
 Ask me About GitHub
 
 <details>
