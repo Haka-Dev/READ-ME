@@ -1,5 +1,7 @@
 I'm Currently working on something cool
+/n
 I'm Currently learning c#
+/n
 Ask me About GitHub
 
 <details>
